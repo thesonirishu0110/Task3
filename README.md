@@ -1,10 +1,6 @@
 # Task3
 
-Here’s a `README.md` file tailored to your **Power BI presentation** based on the `Financial dataset.pbix` file and the Excel dataset you shared.
 
----
-
-```markdown
 # 📊 Financial Data Analysis & Forecasting Dashboard (Power BI)
 
 This Power BI report visualizes and forecasts financial performance based on historical sales data. It uses time series analysis to project future sales or profit, allowing for better business insights and decision-making.
