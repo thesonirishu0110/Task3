@@ -76,15 +76,4 @@ This Power BI report visualizes and forecasts financial performance based on his
 
 ---
 
-## 📌 Author
-**Created by:** [Your Name]  
-**Role:** Data Analyst | Business Intelligence Enthusiast
 
----
-
-> _“Turning data into decisions through dynamic dashboards.”_
-```
-
----
-
-Let me know if you'd like a PDF version of this or to embed this directly into your `.pbix` file as a documentation page.
